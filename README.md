@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am a great Pickle Ball Player**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: +14155774732</h3>
 <p align="left">
 </p>
 
