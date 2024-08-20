@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indarkarhana&label=Profile%20views&color=0e75b6&style=flat" alt="IndarKarhana" /> </p>
 
-- 🔭 I’m currently working at **Pacific Gas and Electric**
+- 🔭 I’m currently working at **Ascentt**
 
 - 🌱 I’m currently learning **Machine Learning and DevOps**
 
