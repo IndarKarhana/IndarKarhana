@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and DevOps**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me **ishukarhana@gmail.com**
 
