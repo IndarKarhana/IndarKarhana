@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📫 How to reach me **ishukarhana@gmail.com**
+- 📫 How to reach me **indarkarhana@gmail.com**
 
 - ⚡ Fun fact **I think I am a great Pickle Ball Player**
 
